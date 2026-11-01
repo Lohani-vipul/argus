@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Argus",
+      "hasCanvas": false,
+      "bodyTextLen": 1047,
+      "bodyTextHash": "d1b2c1cbe7776214b129fb4af5f9d6b765cf8bf9877ecc592fbc0d4a23d2f925",
+      "bodyTextPrefix": "Argus Agentic research desk 0 sources · No passages yet Ask Brie",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Argus",
+      "hasCanvas": false,
+      "bodyTextLen": 577,
+      "bodyTextHash": "44ae552745e6405854b64fad2d3217d2a71cb81d65f74a33843e067050dbe718",
+      "bodyTextPrefix": "Argus Agentic research desk Ask Brief Compare Conflicts Timeline",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Argus">
+  <rect width="32" height="32" rx="6" fill="#101311"/>
+  <path d="M6 5h14l6 6v16H6z" fill="#EFEAE0"/>
+  <path d="M20 5v6h6" fill="#D6A84A"/>
+  <rect x="10" y="17.5" width="10" height="2.2" rx="0.4" fill="#101311"/>
+  <rect x="10" y="22" width="7" height="2.2" rx="0.4" fill="#D6A84A"/>
+</svg>
